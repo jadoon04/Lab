@@ -1,0 +1,34 @@
+#menu{
+
+border: 1 px solid black;
+
+}
+#middlesection{
+    width: 100px;
+    border: 1 px solid black;
+}
+
+#right_bar{
+
+     height: 10%;
+    border: 1 px solid black;
+}
+#left_bar{
+      height: 10%;
+    border: 1 px solid black;
+}
+#center{
+      height:80%;
+    border: 1 px solid black;
+
+}
+#footer{
+
+      width: 100%;
+      height: 20%;
+    border: 1 px solid black;
+}
+#main{
+
+    border: 1 px solid black;
+}
